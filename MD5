@@ -1,0 +1,11 @@
+df3b22c698a025d52a698557d8787eff *DESCRIPTION
+a078326df622aa97236fc2323909c7af *LICENSE
+e4baa99e43ec170c8287d0c2c91a4789 *NAMESPACE
+00fb546e62c023b488077c1d83d06ad6 *R/plot_boxplot.R
+3bde7053dab87558b9619b639c7e2d1b *R/plot_scatter.R
+c21504d78b05d3d80586de9a8d4d40e1 *R/stat_frequency.R
+cf794928715019cf81bd51d467156178 *R/utils-pipe.R
+681b2124446446b6b045b496fe131ecf *man/pipe.Rd
+f82ca9b4185460c53d7a58e550b948be *man/plot_boxplot.Rd
+54df8212275bc78f0b3f622c26c18535 *man/plot_scatter.Rd
+696f1c51e446a406ebedf2a556bbb5fa *man/stat_frequency.Rd
